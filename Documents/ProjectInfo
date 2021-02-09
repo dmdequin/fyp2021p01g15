@@ -1,0 +1,61 @@
+Variables:
+On accidents sheet:
+Local_Authority_(District): 300
+Local_Authority_(Highway): E08000025
+Locanation_Easting_OSGR :
+Locationb_Northing_OSGR :
+Vehicle and casualty sheets are linked to accident sheet via Accident_Index
+Casualties linked to vehicles by Vehicle_Reference
+
+Set up for groupwork:
+Tuesday 14-16
+Friday 16-18 
+Deadline: 26/02/21 17 days !! 
+
+Mails:
+Danielle (Dee) Dequin: dmdequin@gmail.com	  ddeq@itu.dk
+Nicola Clark: nici99.nc@gmail.com    niccl@itu.dk 
+Kirstine Torp : kirstinetorpp@gmail.com	 kirp@itu.dk 
+Emma Bisgaard: emmawbisgaard@gmail.com 		ebis@itu.dk 
+Karlis Buiko:	rasa.sulte@gmail.com	  kabu@itu.dk
+
+Sunday 7th:
+Discussed group and planned how and when we will work together
+
+For Tuesday the 9th: 
+Prepare for use of Github.com
+Look into the datas, literature etc. from Michael
+Make folders:
+README.MD
+Data: Raw, Interim, Processed
+Notebooks / Code
+References
+Reports / Figures
+
+
+For Friday the 12th: 
+Read 
+Play around with the data 
+Set up Github (Data Science Cookie-Cutter) https://github.com/drivendata/cookiecutter-data-science
+EXPLORATORY DATA ANALYSIS
+- Create a Jupyter notebook in the folder notebooks. In this notebook, make an initial exploratory data analysis, where you:
+-- load the data
+-- report the dimensions of the data (number of tables, rows, fields)
+-- identify for each variable whether it is numerical or categorical
+-- Make the following sanity check: Does every AccidentID in the casualties and vehicles tables have their corresponding AccidentID in the accident table?
+-- report a five number summary for all numerical variables (where this makes sense)
+-- report a box plot for all numerical variables (where this makes sense)
+-- report a frequency histogram for all numerical variables, and a frequency bar plot for all categorical variables (where this makes sense)
+
+
+Checklist:
+Task0:
+Task1:
+Task2:
+Task3:
+Task4:
+
+
+
+
+
