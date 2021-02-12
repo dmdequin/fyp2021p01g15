@@ -34,12 +34,12 @@ Reports / Figures
 
 
 For Friday the 12th: 
-Read 
 Play around with the data 
-Set up Github (Data Science Cookie-Cutter) https://github.com/drivendata/cookiecutter-data-science
+DONE Set up Github (Data Science Cookie-Cutter) https://github.com/drivendata/cookiecutter-data-science
 EXPLORATORY DATA ANALYSIS
-- Create a Jupyter notebook in the folder notebooks. In this notebook, make an initial exploratory data analysis, where you:
--- load the data
+- DONE Create a Jupyter notebook in the folder notebooks. 
+In this notebook, make an initial exploratory data analysis, where you:
+-- DONE load the data
 -- report the dimensions of the data (number of tables, rows, fields)
 -- identify for each variable whether it is numerical or categorical
 -- Make the following sanity check: Does every AccidentID in the casualties and vehicles tables have their corresponding AccidentID in the accident table?
