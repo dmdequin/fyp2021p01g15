@@ -16,3 +16,5 @@ We explore the city of **Birmingham**.
 - Visualizing the data on a map
 - Involving self-obtained external data sets in the analysis
 
+
+REPORT: https://docs.google.com/document/d/1LbAuvdbT2tSd50Frxhev8koHYXGAye2gOIl7jcjW77I/edit
